@@ -194,5 +194,40 @@
 			"id_products" : "12:1|7:2|3:1",
 			"total" : 63
 		}
+	],
+	"discount" : [
+	    {
+                "id": 17,
+                "nombre": "Cocacola",
+                "precio": 15,
+                "stock": 0,
+                "imagen": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/v1o92lb7op5jztoynvea.png",
+                "plato": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/yfluifpo4riuojhiiekg.png",
+                "sabor_imagen": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789085/Guajolota/42ae0d237cff459b4dbef34a37cbd9e3_odnobf.png",
+                "nombre_completo": "Cocacola de vidrio 200ml",
+                "categoria": "bebidas"
+            },
+            {
+                "id": 18,
+                "nombre": "Flauta",
+                "precio": 25,
+                "stock": 10,
+                "imagen": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/bievjgunvulp16fx3qqh.png",
+                "plato": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/gavlrjiqxdowlhwoofp5.png",
+                "sabor_imagen": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/a2fbd1179b1e05364196353ed0409b52_qzih4c.png",
+                "nombre_completo": "Guajolota de carne de oreja y vejetales",
+                "categoria": "guajolotas"
+            },
+            {
+                "id": 19,
+                "nombre": "Peruano",
+                "precio": 25,
+                "stock": 15,
+                "imagen": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/tmsedr6pciiu2cey44hw.png",
+                "plato": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/xbyohwjxmszhkvuxwqns.png",
+                "sabor_imagen": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789088/Guajolota/c3d06f5939459ab7aac043e0a1d2d5a7_xunhtp.png",
+                "nombre_completo": "Tamal al estilo peruano",
+                "categoria": "tamales"
+            }
 	]
 }
